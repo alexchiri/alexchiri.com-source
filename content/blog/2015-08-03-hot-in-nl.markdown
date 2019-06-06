@@ -1,0 +1,20 @@
+---
+author: alexchiri
+date: 2015-08-03 16:24:52+00:00
+draft: false
+title: Hot in NL
+type: post
+url: /2015/08/03/hot-in-nl/
+featured: Viento-forte.jpg
+featuredpath: date
+categories:
+- About me
+tags:
+- hot
+---
+
+One of the things I noticed since I've been living in The Netherlands is that when the weather is hot, most drivers are going crazy. Aggressive over takes, speeding, poor checks on turns, not even talking about signalling! It's like a drivers gone mad convention.
+
+But despite this behaviour there aren't many accidents or at least not many serious accidents[1] in The Netherlands yearly. Maybe also because there aren't too many hot days in the Dutch summer.
+
+1. [Wikipedia](https://en.wikipedia.org/wiki/List_of_countries_by_traffic-related_death_rate) ↩

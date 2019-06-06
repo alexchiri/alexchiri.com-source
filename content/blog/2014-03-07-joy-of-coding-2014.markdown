@@ -1,0 +1,30 @@
+---
+author: alexchiri
+date: 2014-03-07 17:00:00+00:00
+draft: false
+title: Joy of Coding 2014
+type: post
+url: /2014/03/07/joy-of-coding-2014/
+featured: IMG_20140308_190648.jpg
+featuredpath: date
+categories:
+- Code & Tech
+tags:
+- joy-of-coding
+---
+
+Yesterday I spent the entire day at the [Joy of Coding](http://joyofcoding.org) conference, in Rotterdam. From my point of view, it was an example of how a coding conference should happen. Lots of sponsors, but nobody trying to get your personal data in exchange for a t-shirt or the promise of winning some sort of gadget. Focus was put on what matters: code, networking and sharing.
+
+I have attended all the talks, here's a small part of what I took away from each of them:
+
+
+
+ 	  * Agile is an adaptive process, you try, you adapt and you try again. You don't settle until you feel comfortable with what you got and certainly you don't follow some rules someone else defined, just because it worked for them. (_Dan North - Accelerating Agile: hyper-performing without the hype_)
+ 	  * Play with code, do crazy and stupid things, try. It's a learning experience! (_Avdi Grimm - MythBashers: An Adventure in Overlooked Technologies_)
+ 	  * Object Algebras is a pattern that allows absolute modularity and extensibility for your code. (_Tijs van der Storm - Who's Afraid of Object Algebras_)
+ 	  * From a functional point of view, getters and setters are much more rich than you would think. (_Erik Meijer - Contravariance is the Dual of Covariance_)
+ 	  * Programmers nowadays are no longer a one-trick-pony. Java, HTML5, Angular, Groovy and MongoDB in the same sentence? Sure you can! (_Trisha Gee - HTML5/angular.js/Groovy/Java/MongoDB all together - what could possibly go wrong?_)
+ 	  * I had no clue that there are people researching software development and trying to reach ways to improve it. It appears that there are hundreds of conferences every year dedicated to this subject, as there are technical conferences like this. Imagine doing research in 'rubber duck debugging'! (_Eric Bouwers - The scientific programmer_)
+ 	  * Coding is not the only important aspect of software development. Learning, teaching, knowing when it's enough, work/life balance, failure and others are all important parts of this way of filling your time on Earth (_Dick Wall - The Tao, of the Joy, of Coding_)
+
+Looking forward to next year's edition for some more joy of coding! :)
