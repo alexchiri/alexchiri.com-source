@@ -1,3 +1,7 @@
 [submodule "themes/hugo-future-imperfect"]
 	path = themes/hugo-future-imperfect
 	url = https://github.com/alexchiri/hugo-future-imperfect.git
+[submodule "public"]
+	path = public
+	url = git@github.com:alexchiri/alexchiri.com.git
+	branch = master
