@@ -7,6 +7,6 @@ branches:
     - master
 os:
   - linux
-sudo: false
+sudo: true
 script:
   - "/bin/bash ./scripts/build.sh"
