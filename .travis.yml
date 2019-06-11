@@ -1,0 +1,12 @@
+addons:
+  apt:
+    packages:
+      - hugo
+branches:
+  only:
+    - master
+os:
+  - linux
+sudo: false
+script:
+  - "/bin/bash ./scripts/build.sh"
