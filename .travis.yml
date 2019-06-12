@@ -2,6 +2,11 @@ addons:
   apt:
     packages:
       - hugo
+git:
+  submodules: false
+before_install:
+  - sed -i 's/git@github.com:/https:\/\/github.com\//' .gitmodules
+  - git submodule update --init --recursive
 branches:
   only:
     - master
@@ -10,4 +15,13 @@ os:
   - linux
 sudo: false
 script:
-  - "/bin/bash ./scripts/build.sh"
+  - hugo
+deploy:
+  provider: pages
+  repo: alexchiri/alexchiri.com
+  skip_cleanup: true
+  local_dir: public
+  github_token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
+  keep_history: true
+  on:
+    branch: master
