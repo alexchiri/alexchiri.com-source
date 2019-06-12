@@ -19,6 +19,7 @@ script:
 deploy:
   provider: pages
   repo: alexchiri/alexchiri.com
+  target_branch: master
   skip_cleanup: true
   local_dir: public
   github_token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
