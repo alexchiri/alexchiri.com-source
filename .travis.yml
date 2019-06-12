@@ -15,7 +15,7 @@ os:
   - linux
 sudo: false
 script:
-  - hugo
+  - hugo --theme=hugo-future-imperfect
 deploy:
   provider: pages
   repo: alexchiri/alexchiri.com
