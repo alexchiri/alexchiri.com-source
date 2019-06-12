@@ -1,7 +1,7 @@
 addons:
   apt:
     packages:
-      - hugo
+      - python-pygments
 git:
   submodules: false
 before_install:
@@ -15,7 +15,7 @@ os:
   - linux
 sudo: false
 script:
-  - hugo --theme=hugo-future-imperfect
+  - ./binaries/hugo --theme=hugo-future-imperfect
 deploy:
   provider: pages
   repo: alexchiri/alexchiri.com
