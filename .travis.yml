@@ -10,7 +10,7 @@ before_install:
 branches:
   only:
     - master
-dist: xenial
+#dist: xenial
 os:
   - linux
 sudo: false
