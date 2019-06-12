@@ -5,8 +5,9 @@ addons:
 branches:
   only:
     - master
+dist: xenial
 os:
   - linux
-sudo: true
+sudo: false
 script:
   - "/bin/bash ./scripts/build.sh"
