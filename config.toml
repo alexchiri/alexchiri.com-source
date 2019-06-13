@@ -117,6 +117,12 @@ canonifyURLs = true
   identifier = "fa fa-home"
   weight = 1
 
+[[menu.main]]
+  name = "Now"
+  url = "/now/"
+  identifier = "fa"
+  weight = 2
+
 #[[menu.main]]
 #  name = "About"
 #  url = "/about/"
