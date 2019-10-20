@@ -8,8 +8,6 @@ url: /2019/10/20/the-challenge-of-helping-others/
 featured: helping.jpg
 featuredpath: date
 categories:
-- Consulting
-- Leadership
 - Books
 tags:
 - edgar-schein 
