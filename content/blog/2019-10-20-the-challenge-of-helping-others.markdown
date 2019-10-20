@@ -10,7 +10,7 @@ featuredpath: date
 categories:
 - Books
 tags:
-- edgar-schein 
+- edgarschein 
 ---
 A book I've been reading lately revealed to me how tricky helping relationships can be, even though we put ourselves in such relationships several times every day and we don't even realise it. There are many things we do automatically successfully and we don't even think about it. Because we have been trained for many years by society and parents how to do it correctly according to the common rules. Helping others is no exception: we have been taught to help people around us that are in need and be receptive to others' pain and distress. All of this comes naturally to many of us. But that is not the case in all situations.
 
