@@ -9,12 +9,10 @@ url: /now/
 
 What am I thinking or doing now:
 
-* Engineering Manager at [Klarna A.B.](https://www.klarna.com)
-* Enthusiastic member of the [Farnam Street Learning Community](https://fs.blog/membership)
-* Learning about systems thinking and how to apply them every day.
-* Learning about [Probabilities and Statistics](https://courses.edx.org/courses/course-v1:UCSanDiegoX+DSE210x+1T2019a/course/) on [edx](https://edx.org). I've been reading many studies lately and I want to be able to get a better understanding of the statistical results.
-* Reading, formulating ideas and writing about my topics of interest.
-* Running, because if feels good and weather is nice outside.
-* Constantly thinking about how to improve working environments and help people be happier at work or at home.
+* DevOps and Continuous Delivery consultant at [Eficode Praqma](https://www.praqma.com).
+* Chopping wood and carrying water every day and thinking about personal growth and what is the meaning of it all? 
+* Enthusiastic member of the [Farnam Street Learning Community](https://fs.blog/membership).
+* Practicing lots of [Rocket Yoga](https://en.wikipedia.org/wiki/Larry_Schultz), because it helps quiet the mind. 🙏
+* Constantly thinking about how to improve working environments and help people be happier at work.
 * Trying, failing, learning, improving and repeat.
 
