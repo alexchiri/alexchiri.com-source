@@ -112,7 +112,8 @@ canonifyURLs = true
   name = "Reading Notes"
   url = "/reading-notes/"
   identifier = "fa"
-  weight = 3
+  weight = 4
+
 #[[menu.main]]
 #  name = "About"
 #  url = "/about/"
