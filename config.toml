@@ -13,7 +13,7 @@ canonifyURLs = true
 
 [params]
   # Sets the meta tag description
-  description          = "HTML5 UP theme, Future Imperfect with some extra goodies, ported by Julio Pescador. Powered by Hugo"
+  description          = "Random thoughts on work, people and improvements"
   # Sets the navbarTitle that appears in the top left of the navigation bar
   navbarTitle          = "alexchiri.com"
   # Sets where "View More Posts" links
@@ -70,21 +70,6 @@ canonifyURLs = true
   MathJaxCDN = "//cdnjs.cloudflare.com/ajax/libs"
   MathJaxVersion = "2.7.5"
 
-# Disqus will take priority over Staticman (github.com/eduardoboucas/staticman)
-# due to its ease of use. Feel free to check out both and decide what you would
-# prefer to use. See Staticman.yml for additional settings.
-[params.staticman]
-  # Sets Statiman to be active
-  staticman = false
-  # Sets the location for Staticman to connect to
-  username  = ""
-  repo      = ""
-  branch    = ""
-
-  [params.staticman.recaptcha]
-    sitekey = "SITE_KEY"
-    secret  = "ENCRYPTED_SECRET"
-
   # These are optional params related to the sidebar. They are recommended, but not
   # required for proper functionality. HTML is supported within the params.
 [params.intro]
@@ -123,6 +108,11 @@ canonifyURLs = true
   identifier = "fa"
   weight = 2
 
+[[menu.main]]
+  name = "Reading Notes"
+  url = "/reading-notes/"
+  identifier = "fa"
+  weight = 3
 #[[menu.main]]
 #  name = "About"
 #  url = "/about/"
