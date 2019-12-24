@@ -15,7 +15,7 @@ os:
   - linux
 sudo: false
 script:
-  - ./binaries/hugo --theme=hugo-future-imperfect
+  - ./binaries/hugo --theme=hugo-future-imperfect-slim
 deploy:
   provider: pages
   repo: alexchiri/alexchiri.com
