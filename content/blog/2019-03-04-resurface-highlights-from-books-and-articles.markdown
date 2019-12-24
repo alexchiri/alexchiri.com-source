@@ -29,13 +29,12 @@ My main frustration with the highlights is that I almost never revisit them, I a
 
 Readwise will sync all your Kindle highlights regularly with its platform and gives you daily digests of highlights through email or (mobile) website, using some sort of [spaced repetition](https://en.wikipedia.org/wiki/Spaced_repetition) algorithms.
 
-{{< img-post "/img/2019/03" "readwise1.png" "readwise1" "center" >}}
+![](/img/2019/03/readwise1.png)
 
 
 You can configure how often you should receive an email, if ever and if you want to use features like [Active Recall](https://blog.readwise.io/remember-more-of-what-you-read-with-readwise/) where some words are hidden in the highlight to make you think about the context of the text and try to guess the missing words and this way improve retention.
 
-{{< img-post "/img/2019/03" "Screen-Shot-2019-03-04-at-20.53.03.png" "Highlight using the Active Recall feature" "center" >}}
-
+![](/img/2019/03/Screen-Shot-2019-03-04-at-20.53.03.png)
 
 
 ## Nice, but what about articles?
@@ -46,6 +45,6 @@ It would be rather neat to be able to use Readwise on the articles you read also
 
 As a bonus, you can manually add highlights into Readwise or you can sync your Goodreads account with it and it will start showing popular highlights from the books you read in the past, but had no highlights for them in your Kindle account.
 
-{{< img-post "/img/2019/03" "Screen-Shot-2019-03-04-at-20.52.46.png" "Highlight from a book I synced with Goodreads" "center" >}}
+![](/img/2019/03/Screen-Shot-2019-03-04-at-20.52.46.png)
 
 What I like about this flow is that it requires very little effort and that I get to gather all the interesting pieces of information I stumble upon into one platform that is resurfacing them periodically. While it is a considerable improvement over not reviewing these highlights ever again, I feel there’s still something missing to make these stick and be internalised for long-term storage. I suspect it has something to do with the little amount of time and effort spent in learning them, which would be required to allow them to be integrated into our memory and make long-lasting connections to the existing bits of information in our brain.

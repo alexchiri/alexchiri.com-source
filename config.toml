@@ -1,148 +1,113 @@
-baseurl = "/"
-languageCode = "en-us"
-title = "alexchiri.com"
-theme = "hugo-future-imperfect"
-preserveTaxonomyNames = true
-paginate = 5
-disqusShortname = "alexchiricom"
-googleAnalytics = "UA-37431001-1"
-pluralizeListTitles = false
-# Set the followings to true as part of your site SEO
-enableRobotsTXT = true
-canonifyURLs = true
+baseurl                 = "https://alexchiri.com/"
+DefaultContentLanguage  = "en"
+title                   = "alexchiri.com"
+theme                   = "hugo-future-imperfect-slim"
+preserveTaxonomyNames   = true
+paginate                = 5
+disqusShortname         = "alexchiricom"
+googleAnalytics         = "UA-37431001-1"
+pluralizeListTitles     = false
+disableLanguages        = [""]
 
 [params]
-  # Sets the meta tag description
-  description          = "Random thoughts on work, people and improvements"
-  # Sets the navbarTitle that appears in the top left of the navigation bar
-  navbarTitle          = "alexchiri.com"
-  # Sets where "View More Posts" links
-#  viewMorePostLink     = "/"
-  viewMorePostLink     = "/blog/"
+  mainSections = ["post"]
+  # Loads CSS and JavaScript files. The variable is an array so that you can load
+  # multiple/additional files if necessary. The standard theme files can be loaded
+  # by adding the value, "default". Default includes the add-on.css and and-on.js.
+  # Example: ["default", "/path/to/file"]
+  cssFiles              = ["default"]
+  jsFiles               = ["default"]
+  # Sets options for highlight.js
+  highlightjs           = true
+  highlightjsTheme      = "github"
+  highlightjsLang       = ["html", "css", "js", "toml"]
+  # Sets where "View More Posts" links to
+  viewMorePostsLink     = "/blog/"
+  # Activate Estimated Reading Times, which appear in the post headers
+  readingTime           = true
+  # Sets which Social Share links appear in posts.
+  # Options are twitter, facebook, reddit, linkedin, pinterest, email
+  socialShare           = []
 
-# Optional Params
-  # Sets navbarTitle to match the section of the website
-  dynamicTitles        = true
-  # Sets RSS icons to appear on the sidebar with the social media buttons
-  rssAppearAtTop       = true
-  rssAppearAtBottom    = true
-  # Sets Social Media icons to appear on the sidebar
-  socialAppearAtTop    = true
-  socialAppearAtBottom = true
-  # Sets Categories to sort by number of posts instead of alphabetical
-  categoriesByCount    = true
-  # set to show or to hide categories in the sidebar
-  showSidebarCategories = true
-  # Sets Estimated Reading Time to appear in post headers
-  includeReadingTime   = true
-  # Sets the Favicon and Version for the site. Default support is for
-  # apple-touch-icon-precomposed.png, favicon.png, favicon.ico, and mstile.png.
-  # These are stored in the favicon folder. See the following for more information:
-  # https://github.com/audreyr/favicon-cheat-sheet
-  loadFavicon          = false
-  faviconVersion       = ""
-  # Sets Social Share links to appear on posts
-  socialShare          = false
-  # Sets specific share to appear on posts (default behavior is to appear)
-  socialShareTwitter   = false
-  socialShareGoogleplus = false
-  socialShareFacebook  = false
-  socialShareReddit    = false
-  socialShareLinkedin  = false
-  socialShareStumbleupon = false
-  socialSharePinterest = false
-  socialShareEmail     = false
+  [params.meta]
+    # Sets the meta tag description
+    description         = "Random thoughts on work, people and improvements."
+    # Sets the meta tag author
+    author              = "Alex Chiritescu"
+    # If you would like to add more comprehensive favicon support passed root
+    # directory favicon.ico, utlize this funtion. It is recommened to use
+    # https://realfavicongenerator.net to generate your icons as that is the basis
+    # for the theme's naming.
+    favicon             = false
+    svg                 = true
+    faviconVersion      = "1"
+    msColor             = "#ffffff" # Copy from the https://realfavicongenerator.net
+    iOSColor            = "#ffffff" # Copy from the https://realfavicongenerator.net
 
-  # Load custom CSS or JavaScript files. The variable is an array so that you
-  # can load multiple files if necessary. You can also load the standard theme
-  # files by adding the value, "default".
-  # customCSS            = ["default", "/path/to/file"]
-  # customJS             = ["default", "/path/to/file"]
-#  customCSS            = ["default"]
-#  customJS             = ["default"]
-
-  # options for highlight.js (version, additional languages, and theme)
-  disable_highlight = false # set to true to disable Highlight
-  highlightjsVersion = "9.15.8"
-  highlightjsCDN = "//cdnjs.cloudflare.com/ajax/libs"
-  highlightjsLang = ["r", "yaml", "css"]
-  highlightjsTheme = "github"
-  MathJaxCDN = "//cdnjs.cloudflare.com/ajax/libs"
-  MathJaxVersion = "2.7.5"
+  [params.header]
+    # Sets the navbarTitle that appears in the top left of the navigation bar
+    navbarTitle         = "alexchiri.com"
+    # Sets navbarTitle to match the section of the website
+    dynamicTitles       = true
+    searchMenu          = true
+    shareMenu           = false
+    languageMenu        = false
 
   # These are optional params related to the sidebar. They are recommended, but not
   # required for proper functionality. HTML is supported within the params.
-[params.intro]
-  header    = "Alex Chirițescu"
+  [params.intro]
+    header                = "Alex Chirițescu"
+    paragraph             = "My #purpose is to help create #safe work #environments that enable #people to be #happy, #creative, #effective and #proud of their work."
+    rssIntro              = true
+    socialIntro           = true
 
-  paragraph = "My #purpose is to help create #safe work #environments that enable #people to be #happy, #creative, #effective and #proud of their work."
+    # This appears at the top of the sidebar above params.intro.header.
+    # A width of less than 100px is recommended from a design perspective.
+    [params.intro.pic]
+      src                 = "/img/main/logo.png"
+      # Masks image in a certain shape. Supported are circle, triangle, diamond, and hexagon.
+      shape               = "circle"
+      width               = "100"
+      alt                 = "Alex Chiritescu"
 
-#  about     = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tellus lacus, auctor vehicula molestie quis, tempor quis velit. Quisque in quam ac leo efficitur vulputate. Phasellus ullamcorper aliquam sodales. Maecenas sit amet condimentum ipsum. Proin sit amet ligula elit. Mauris."
+  [params.sidebar]
+    # about               = "test"
+    # Sets the number of recent posts to show in the sidebar. The default value is 5.
+    postAmount          = 5
+    # set to show or to hide categories in the sidebar
+    categories          = true
+    # Sets Categories to sort by number of posts instead of alphabetical
+    categoriesByCount   = true
 
-  # This appears at the top of the sidebar above params.intro.header.
-  # A width of less than 100px is recommended from a design perspective.
-  [params.intro.pic]
-    src       = "/img/main/logo.png"
-    # Sets Image to be a cirlce
-    circle    = true
-    # Sets Image to be Future Imperfect's hexagon
-    imperfect = false
-    width     = "100"
-    alt       = "Alex Chiritescu"
+  [params.footer]
+    # Sets RSS icons to appear on the sidebar with the social media buttons
+    rssFooter           = true
+    # Sets Social Media icons to appear on the sidebar
+    socialFooter        = true
 
-[params.postAmount]
-# Sets the number of recent posts to show in the sidebar. The default value is 5.
-    sidebar = 5
+[menu]
+  # Sets the menu items in the navigation bar
+  # Identifier prepends a Font Awesome icon to the menu item
+  [[menu.main]]
+    name              = "Home"
+    identifier        = "home"
+    url               = "/"
+    pre               = "<i class='fa fa-home'></i>"
+    weight            = 1
 
-# Sets the menu items in the navigation bar
-# Identifier prepends a Font Awesome icon to the menu item
-[[menu.main]]
-  name = "Home"
-  url = "/"
-  identifier = "fa fa-home"
-  weight = 1
+  [[menu.main]]
+    name              = "Now"
+    identifier        = "now"
+    url               = "/now/"
+    pre               = "<i class='fas fa-id-card'></i>"
+    weight            = 2
 
-[[menu.main]]
-  name = "Now"
-  url = "/now/"
-  identifier = "fa"
-  weight = 2
-
-# [[menu.main]]
-#   name = "Reading Notes"
-#   url = "/reading-notes/"
-#   identifier = "fa"
-#   weight = 3
-
-#[[menu.main]]
-#  name = "About"
-#  url = "/about/"
-#  identifier = "fa fa-id-card-o"
-#  weight = 2
-#
-#[[menu.main]]
-#  name = "Blog"
-#  url = "/blog/"
-#  identifier = "fa fa-newspaper-o"
-#  weight = 3
-#
-#[[menu.main]]
-#  name = "Itemized"
-#  url = "/itemized/"
-#  identifier = "fa fa-list"
-#  weight = 4
-#
-#[[menu.main]]
-#  name = "Categories"
-#  url = "/categories/"
-#  identifier = "fa fa-sitemap"
-#  weight = 5
-#
-#[[menu.main]]
-#  name = "Contact"
-#  url = "/contact/"
-#  identifier = "fa fa-envelope-o"
-#  weight = 6
+  # [[menu.main]]
+  #   name              = "Reading Notes"
+  #   identifier        = "reading-notes"
+  #   url               = "/reading-notes/"
+  #   pre               = "<i class='fas fa-book'></i>"
+  #   weight            = 3
 
 # Sets Social Media icons to appear and link to your account. Value should be your
 # username unless otherwise noted. These are the icons affected by socialAppearAtTop
@@ -150,46 +115,7 @@ canonifyURLs = true
 [social]
   # Coding Communities
   github           = "alexchiri"
-#  gitlab           = ""
   stackoverflow    = "1904089" # User Number
-#  bitbucket        = ""
-#  jsfiddle         = ""
-#  codepen          = ""
-  # Visual Art Communities
-#  deviantart       = ""
-#  flickr           = "example"
-#  behance          = ""
-#  dribbble         = ""
-  # Publishing Communities
-#  wordpress        = ""
-#  medium           = ""
-  # Professional/Business Oriented Communities
   linkedin         = "alexchiri"
-#  linkedin_company = "examplebusiness"
-#  foursquare       = ""
-#  xing             = ""
-#  slideshare       = ""
-  # Social Networks
-#  facebook         = "example"
-#  googleplus       = ""
-#  reddit           = "example"
-#  quora            = ""
-#  youtube          = ""
-#  vimeo            = ""
-#  whatsapp         = "" # WhatsApp Number
-    # WeChat and QQ need testing.
-#    wechat         = ""
-#    qq             = "" # User ID Number
-#  instagram        = "example"
-#  tumblr           = ""
   twitter          = "alexchiri"
-#  skype            = ""
-#  snapchat         = ""
-#  pinterest        = "example"
-#  telegram         = "example"
-#  vine             = ""
-#  googlescholar    = ""
-#  orcid            = ""
-#  researchgate     = "example"
-  # Email
   email            = "alex.chiri@gmail.com"

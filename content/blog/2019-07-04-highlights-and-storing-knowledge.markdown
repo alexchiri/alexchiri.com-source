@@ -33,13 +33,13 @@ Welcome [Diigo](https://www.diigo.com)!
 Using [Diigo](https://www.diigo.com) and its mobile phone apps or browser extensions you can easily take highlights from PDFs, websites and even take screenshots from videos playing in the browser.
 All of these are saved nicely in the [Diigo](https://www.diigo.com) library.
 
-![](/img/2019/07/Screenshot 2019-07-09 at 19.57.40.png)
+![](/img/2019/07/Screenshot-2019-07-09-at-19.57.40.png)
 
 So besides offering features for collecting bookmarks and offline storage of web pages (premium version), it is quite good at highlights from computer or phone, something I was missing in [Pocket](http://getpocket.com/). Besides that, every highlighted resource is shareable through unique and private (or public) URLs, a pretty nice feature.
 
 And if you would like to build a digital ["commonplace book"](https://ryanholiday.net/how-and-why-to-keep-a-commonplace-book/), [Diigo](https://www.diigo.com) has a feature called [Outliner](https://www.diigo.com/outliner/start). Those are some sort documents that you can create in your library and you can simply type formatted text or drag highlights from your library. So in the same way you would put index cards in a box, you can drag highlights into an outliner. You can open an outliner in parallel to a resource you're highlighting, just to make it simpler. 
 
-![](/img/2019/07/Screenshot 2019-07-09 at 20.11.15.png) 
+![](/img/2019/07/Screenshot-2019-07-09-at-20.11.15.png) 
 
 One of the struggles I had in maintaining an analog commonplace book was to keep up with extracting highlights from books on index cards. It was very easy to fall behind and as the pile of read books was growing, the harder was to make time to extract highlights. With [Kindle](https://www.amazon.com/Kindle-eBooks/b?ie=UTF8&node=154606011) and Diigo, you don't have to do that: you can simply import highlights from [Kindle](https://www.amazon.com/Kindle-eBooks/b?ie=UTF8&node=154606011) into Diigo and then drag them to the right outliner.
 
@@ -47,7 +47,7 @@ One of the struggles I had in maintaining an analog commonplace book was to keep
 
 Well, it got even better. The design is more refined and my personal favourite is the new scroll mode, so you can faster go through all the highlights.
 
-![](/img/2019/07/Screenshot 2019-07-09 at 20.41.24.png)
+![](/img/2019/07/Screenshot-2019-07-09-at-20.41.24.png)
 
 ## One more thing...
 
@@ -57,6 +57,6 @@ Besides all of these, I started using [TheBrain](http://thebrain.com) for better
 
 The amazing part is how you add information and how you retrieve it. You can associate pieces of information with as many other as you wish and this will make it super easy to find something in it. Even if you don't remember the exact name of the information you are looking for, you can find it by context. Not to mention that whenever you are making new connections, you are also reviewing old ones, which improves your retention of things in your real brain!
 
-![](/img/2019/07/Screenshot 2019-07-09 at 20.58.28.png)
+![](/img/2019/07/Screenshot-2019-07-09-at-20.58.28.png)
 
 I've been using it for several months now to store all kind of information and it has become my main tool to accumulate information. I'm still learning how to use it effectively, so I'm planning to dedicate a post to it in the future.
