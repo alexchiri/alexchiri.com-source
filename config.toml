@@ -111,7 +111,7 @@ disableLanguages        = [""]
 
 # Sets Social Media icons to appear and link to your account. Value should be your
 # username unless otherwise noted. These are the icons affected by socialAppearAtTop
-# and socialAppearAtBottom.
+# and socialAppearAtBottom. 
 [social]
   # Coding Communities
   github           = "alexchiri"
