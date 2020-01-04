@@ -27,7 +27,6 @@ What I am suggesting, in the end, is to be conscious about the problems you try 
 
 The authors of the book include in the gravity problems category also large scale issues that could be actionable, but require enormous amount of effort to be invested and there’s a good chance you would not be able to see any effects (except your despair) in a short amount of time. Like equal pay for genders or eradicating slavery. Now if everyone would’ve accepted these issues and moved on in the past, then we wouldn’t have been where we are now. That’s not what the authors suggest. Instead, they are simply advising to be conscious about the challenges you are undertaking and be honest with yourself about your expectations to progress, if you decide to attack such a problem.
 
-
 ## Anchor problems
 
 ![via GIPHY](https://giphy.com/gifs/3rjZId225LNpgoLr1R)
