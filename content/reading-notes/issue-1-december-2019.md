@@ -4,6 +4,8 @@ date: 2019-12-31 06:41:00+00:00
 draft: false
 title: Alex Chiri's reading notes - issue 1, dec '19
 url: /2019/12/31/reading-notes-1/
+featured: books.jpg
+featuredpath: date
 categories:
 - reading-notes
 tags:
