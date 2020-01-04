@@ -17,7 +17,7 @@ Inspired by several newsletters I follow and read regularly, like [Brain Food](h
 
 ---
 
-### [The Unicorn Project: A Novel about Developers, Digital Disruption, and Thriving in the Age of Data by Gene Kim](https://www.amazon.com/Unicorn-Project-Developers-Disruption-Thriving-ebook/dp/B07QT9QR41/)
+### [The Unicorn Project: A Novel about Developers, Digital Disruption, and Thriving in the Age of Data by Gene Kim](https://www.amazon.com/Unicorn-Project-Developers-Disruption-Thriving-ebook/dp/B07QT9QR41/){:target="_blank"}
 
 I found [The Unicorn Project](https://www.amazon.com/Unicorn-Project-Developers-Disruption-Thriving-ebook/dp/B07QT9QR41/) by Gene Kim to be a captivating book which I enjoyed reading. I felt like cringing at times because of the situations described, but that is more of a quality of the book than something to criticise on. It is full of great learnings which could be useful to many technical and non-technical people.
 
