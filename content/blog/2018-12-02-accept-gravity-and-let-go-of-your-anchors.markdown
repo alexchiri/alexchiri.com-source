@@ -17,7 +17,7 @@ There are a couple of concepts I learned about recently, while reading [“Desig
 
 ## Gravity problems
 
-![via GIPHY](https://giphy.com/gifs/zach-galifianakis-JhncGNdBoyeKk)
+![via GIPHY](https://media.giphy.com/media/JhncGNdBoyeKk/source.gif)
 
 A gravity problem is a problem that is not actionable. If you see gravity as a problem and you decide to fight it, to “solve” it, you will realise sooner or later that it is unsolvable and you would be far off better with accepting it as a reality and find ways to work around it.
 
@@ -29,7 +29,7 @@ The authors of the book include in the gravity problems category also large scal
 
 ## Anchor problems
 
-![via GIPHY](https://giphy.com/gifs/3rjZId225LNpgoLr1R)
+![via GIPHY](https://media.giphy.com/media/3rjZId225LNpgoLr1R/source.gif)
 
 With anchor problems, although they are actionable, we are anchored to a specific solution and we are stuck trying to pursue just that one, even though there are other solutions which could give similar results. When we perceive a certain solution as the only way to get out of a problem and that solution is difficult to accomplish, we become stuck.
 
