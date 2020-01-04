@@ -86,3 +86,5 @@ Whenever a permanent note would be introduced, Luhmann would try to connect it t
 That wraps it up for this first issue. Hope you enjoyed it. Do let me know how did you find it. Was it too long or too short? I find it hard sometimes to decide which details to include and which to leave out, some sources are very rich in interesting content!
 
 Until next year, wish you an amazing end of the year, full of rest and joy and whatever else you wish for!
+
+P.S. If you enjoyed this issue of the newsletter, why not [sign up](https://sendfox.com/lp/1vl9ym) and receive the next ones by email, just as they are published? You can do that by following [this link](https://sendfox.com/lp/1vl9ym).
