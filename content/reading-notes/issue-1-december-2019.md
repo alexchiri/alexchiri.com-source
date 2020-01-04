@@ -17,7 +17,7 @@ Inspired by several newsletters I follow and read regularly, like [Brain Food](h
 
 ---
 
-### The Unicorn Project: A Novel about Developers, Digital Disruption, and Thriving in the Age of Data by Gene Kim
+### [The Unicorn Project: A Novel about Developers, Digital Disruption, and Thriving in the Age of Data by Gene Kim](https://www.amazon.com/Unicorn-Project-Developers-Disruption-Thriving-ebook/dp/B07QT9QR41/)
 
 I found [The Unicorn Project](https://www.amazon.com/Unicorn-Project-Developers-Disruption-Thriving-ebook/dp/B07QT9QR41/) by Gene Kim to be a captivating book which I enjoyed reading. I felt like cringing at times because of the situations described, but that is more of a quality of the book than something to criticise on. It is full of great learnings which could be useful to many technical and non-technical people.
 
@@ -25,7 +25,7 @@ I'm sure that there are many companies like Parts Unlimited "in real life", very
 
 ---
 
-### A conversation about living abroad, entrepreneurship, reading and parenting, Shift Happens 
+### [A conversation about living abroad, entrepreneurship, reading and parenting, Shift Happens](https://shifthappens.libsyn.com/correlation-between-personal-and-business-growth) 
 
 _An [interview](https://shifthappens.libsyn.com/correlation-between-personal-and-business-growth) with [Dmitry Buterin](http://www.buterin.com/), a serial tech entrepreneur originating in Russia and currently established with his family in Canada. His son, [Vitalik Buterin](https://vitalik.ca/) is the co-founder of [Ethereum](https://ethereum.org/) and of the [Bitcoin Magazine](https://bitcoinmagazine.com/)._
 
@@ -41,7 +41,7 @@ _An [interview](https://shifthappens.libsyn.com/correlation-between-personal-and
 
 ---
 
-### Why we age and why we don't have to with David Sinclair, The Kevin Rose Show
+### [Why we age and why we don't have to with David Sinclair, The Kevin Rose Show](https://thekevinroseshow.simplecast.com/episodes/david-sinclair-phd-why-we-age-and-why-we-dont-have-to-DbifBrzB)
 
 _A very [interesting discussion](https://thekevinroseshow.simplecast.com/episodes/david-sinclair-phd-why-we-age-and-why-we-dont-have-to-DbifBrzB) with David Sinclair, Ph.D., a Professor at Harvard Medical School, whose research is focused on ageing. He recently released a fascinating book called [Lifespan](https://www.amazon.com/Lifespan-Why-Age-Dont-Have-ebook/dp/B07N4C6LGR/), where he goes into more detail about his theory of ageing. Kevin and David go into details about all kind of aspects of what works and what doesn't, but in order to not make these notes very long I chose to not include many of those._ 
 
@@ -65,7 +65,7 @@ David's lab was the first one to show that [NAD](https://en.wikipedia.org/wiki/N
 
 ---
 
-### How to take smart notes by Sönke Ahrens
+### [How to take smart notes by Sönke Ahrens](https://www.amazon.com/How-Take-Smart-Notes-Nonfiction-ebook/dp/B06WVYW33Y/)
 
 > The ability to express understanding in one’s own words is a fundamental competency for everyone who writes – and only by doing it with the chance of realizing our lack of understanding can we become better at it. But the better we become, the easier and quicker we can make notes, which again increases the number of learning experiences. The same applies to the crucial ability to distinguish the important bits of a text from the less important ones: the better we become at it, the more effective our reading will become, the more we can read, the more we will learn. We will enter a beautiful, virtuous circle of competency. You cannot help but feel motivated by it. - Sönke Ahrens
 
