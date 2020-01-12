@@ -29,7 +29,7 @@ I also simplified the form a bit, since it didn't have to upload to the S3 bucke
 
 ![A sample of a transcript](/img/2020/01/resulting_transcript.png)
 
-This tool helps me take better notes from podcasts and shorten the time I spend on building the monthly [Reading Notes newsletter](https://alexchiri.com/reading-notes/).
+[This solution](https://github.com/alexchiri/serverless-transcribe) helps me take better notes from podcasts and shorten the time I spend on building the monthly [Reading Notes newsletter](https://alexchiri.com/reading-notes/).
 
 At the same time, I learned quite a lot about developing serverless applications using AWS and SAM and while it was quite a steep learning for me, now I feel more confident in using Lambda functions in future projects.
 
