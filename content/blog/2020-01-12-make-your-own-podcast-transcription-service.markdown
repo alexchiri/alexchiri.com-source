@@ -25,7 +25,7 @@ There was something that I wanted to change though. I do most of my listening fr
 
 ![The podcast upload form](/img/2020/01/transcribe_form.png)
 
-I also simplified the form a bit, since it didn't have to upload to the S3 bucket anymore and I added time intervals to each segments of speech in the transcript. The latter allows me to quickly relisten certain segments that are unclear and to know where exactly in the podcast to go to do that.
+I also simplified the form a bit, since it didn't have to upload to the S3 bucket anymore and I added time intervals to each segment of speech in the transcript. The latter allows me to quickly relisten certain segments that are unclear and to know where exactly in the podcast to go to do that.
 
 ![A sample of a transcript](/img/2020/01/resulting_transcript.png)
 
