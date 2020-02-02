@@ -6,7 +6,7 @@ title: Markdown blogging
 type: post
 url: /2012/12/29/markdown-blogging/
 categories:
-- Code &amp; Tech
+- Code & Tech
 tags:
 - markdown
 ---

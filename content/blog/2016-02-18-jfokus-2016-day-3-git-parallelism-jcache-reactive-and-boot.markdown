@@ -6,7 +6,7 @@ title: 'Jfokus 2016 - Day 3: Git, parallelism, JCache, reactive and Boot'
 type: post
 url: /2016/02/18/jfokus-2016-day-3-git-parallelism-jcache-reactive-and-boot/
 categories:
-- Code &amp; Tech
+- Code & Tech
 tags:
 - jfokus
 ---

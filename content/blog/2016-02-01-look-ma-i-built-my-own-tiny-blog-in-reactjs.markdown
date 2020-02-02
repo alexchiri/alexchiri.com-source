@@ -6,7 +6,7 @@ title: Look ma, I built my own tiny blog in ReactJS!
 type: post
 url: /2016/02/01/look-ma-i-built-my-own-tiny-blog-in-reactjs/
 categories:
-- Code &amp; Tech
+- Code & Tech
 tags:
 - minimalistic-blog
 ---

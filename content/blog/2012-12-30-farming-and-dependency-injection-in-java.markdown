@@ -6,7 +6,7 @@ title: Farming and Dependency Injection in Java
 type: post
 url: /2012/12/30/farming-and-dependency-injection-in-java/
 categories:
-- Code &amp; Tech
+- Code & Tech
 tags:
 - dependency-injection
 - java

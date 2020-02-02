@@ -6,7 +6,7 @@ title: Mobile publishing with Octopress and RaspberryPi
 type: post
 url: /2013/10/20/mobile-publishing-with-octopress-and-raspberrypi/
 categories:
-- Code &amp; Tech
+- Code & Tech
 - About me
 tags:
 - blog

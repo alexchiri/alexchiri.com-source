@@ -6,7 +6,7 @@ title: I added RSS
 type: post
 url: /2016/04/18/i-added-rss/
 categories:
-- Code &amp; Tech
+- Code & Tech
 tags:
 - minimalistic-blog
 ---

@@ -6,7 +6,7 @@ title: holder.js, a handy image placeholder generator
 type: post
 url: /2013/11/10/holder-js-a-handy-image-placeholder-generator/
 categories:
-- Code &amp; Tech
+- Code & Tech
 tags:
 - javascript
 - placeholder

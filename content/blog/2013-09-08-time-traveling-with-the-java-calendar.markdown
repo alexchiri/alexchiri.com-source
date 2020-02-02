@@ -6,7 +6,7 @@ title: Time traveling with the Java Calendar
 type: post
 url: /2013/09/08/time-traveling-with-the-java-calendar/
 categories:
-- Code &amp; Tech
+- Code & Tech
 tags:
 - java
 ---

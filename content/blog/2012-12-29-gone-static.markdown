@@ -6,7 +6,7 @@ title: Gone static!
 type: post
 url: /2012/12/29/gone-static/
 categories:
-- Code &amp; Tech
+- Code & Tech
 - About me
 tags:
 - blogging

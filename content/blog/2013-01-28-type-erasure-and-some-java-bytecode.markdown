@@ -6,7 +6,7 @@ title: Type erasure and some Java bytecode
 type: post
 url: /2013/01/28/type-erasure-and-some-java-bytecode/
 categories:
-- Code &amp; Tech
+- Code & Tech
 tags:
 - java
 - type-erasure

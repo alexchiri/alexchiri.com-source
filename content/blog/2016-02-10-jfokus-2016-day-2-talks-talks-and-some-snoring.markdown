@@ -6,7 +6,7 @@ title: 'Jfokus 2016 - Day 2: Talks, talks and some snoring'
 type: post
 url: /2016/02/10/jfokus-2016-day-2-talks-talks-and-some-snoring/
 categories:
-- Code &amp; Tech
+- Code & Tech
 tags:
 - jfokus
 ---

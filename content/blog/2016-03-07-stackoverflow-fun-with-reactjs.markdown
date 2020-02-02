@@ -6,7 +6,7 @@ title: StackOverflow fun with ReactJS
 type: post
 url: /2016/03/07/stackoverflow-fun-with-reactjs/
 categories:
-- Code &amp; Tech
+- Code & Tech
 tags:
 - stackoverflow
 - tutorials

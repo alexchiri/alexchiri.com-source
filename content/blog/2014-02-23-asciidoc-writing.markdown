@@ -6,7 +6,7 @@ title: AsciiDoc writing
 type: post
 url: /2014/02/23/asciidoc-writing/
 categories:
-- Code &amp; Tech
+- Code & Tech
 - About me
 tags:
 - asciidoc

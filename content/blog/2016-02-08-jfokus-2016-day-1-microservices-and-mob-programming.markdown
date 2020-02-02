@@ -6,7 +6,7 @@ title: 'Jfokus 2016 - Day 1: Microservices and Mob programming'
 type: post
 url: /2016/02/08/jfokus-2016-day-1-microservices-and-mob-programming/
 categories:
-- Code &amp; Tech
+- Code & Tech
 tags:
 - jfokus
 ---

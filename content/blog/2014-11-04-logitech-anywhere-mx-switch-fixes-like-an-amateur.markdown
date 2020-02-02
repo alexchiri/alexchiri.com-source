@@ -8,7 +8,7 @@ url: /2014/11/04/logitech-anywhere-mx-switch-fixes-like-an-amateur/
 featured: 19677.png
 featuredpath: date
 categories:
-- Code &amp; Tech
+- Code & Tech
 tags:
 - fixing-stuff
 - me

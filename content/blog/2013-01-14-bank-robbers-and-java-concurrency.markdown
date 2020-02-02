@@ -6,7 +6,7 @@ title: Bank robbers and Java concurrency
 type: post
 url: /2013/01/14/bank-robbers-and-java-concurrency/
 categories:
-- Code &amp; Tech
+- Code & Tech
 tags:
 - concurrency
 - java

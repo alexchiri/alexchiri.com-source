@@ -8,7 +8,7 @@ url: /2015/02/24/rescued-by-pebble/
 featured: rescued_by_pebble_mkt.jpg
 featuredpath: date
 categories:
-- Code &amp; Tech
+- Code & Tech
 tags:
 - pebble
 - rescue-time

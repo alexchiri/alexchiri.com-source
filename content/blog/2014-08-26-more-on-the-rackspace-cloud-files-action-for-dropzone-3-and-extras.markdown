@@ -6,7 +6,7 @@ title: More on the Rackspace Cloud Files action for Dropzone 3 and extras
 type: post
 url: /2014/08/26/more-on-the-rackspace-cloud-files-action-for-dropzone-3-and-extras/
 categories:
-- Code &amp; Tech
+- Code & Tech
 tags:
 - dropzone
 - me
