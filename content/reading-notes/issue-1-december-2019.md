@@ -4,13 +4,7 @@ date: 2019-12-31 06:41:00+00:00
 draft: false
 title: Alex Chiri's reading notes - issue 1, dec '19
 url: /2019/12/31/reading-notes-1/
-featured: book_notes.jpg
-featuredpath: date
-categories:
-- reading-notes
-tags:
-- reading-notes
-- books
+featured: main/book_notes.jpg
 ---
 
 Inspired by several newsletters I follow and read regularly, like [Brain Food](https://fs.blog/newsletter/) by Farnam Street, I decided to start my own little experiment in sharing some of the things I learn during the month in a newsletter. Just in time before the end of the year, the first issue of Reading Notes is out! Talking about software development gone bad, gone good, entrepreneurship and parenting, ageing and genetics and a system of taking notes. It's "hot off the press" and now on the Internet closest to you!
