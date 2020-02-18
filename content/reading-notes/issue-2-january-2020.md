@@ -45,7 +45,7 @@ I don't want to spoil it more for you, if this sounds appealing, do give it a re
 
 ## [Change Capable Leadership with Holly Burkett, Inevitable: The Future of Work](https://inevitablefutureofwork.com/episodes/#022)
 
-_[This podcast](https://inevitablefutureofwork.com/episodes/#022) contains a very interesting discussion as much about leadership as about change and how companies can develop a capability to change, in a sustainable way. "Change" is a very hot topic and it's being described as a critical capability, especially because of how all fields of life are being disrupted by different companies like Uber, AirBNB and so on. The validity of skills is getting shorter and shorter, which means a lot of workers need to re-skill or update their work knowledge faster and faster. Although this is a very popular topic and there are many books written on it, the ability to handle change is still lacking in many leaders in many workplaces._
+_[This podcast](https://inevitablefutureofwork.com/episodes/#022) contains a very interesting discussion as much about leadership as about change and how companies can develop a capability to change, in a sustainable way. "Change" is a very hot topic and it's being described as a critical capability, especially because of how all fields of life are being disrupted by different companies like Uber, Airbnb and so on. The validity of skills is getting shorter and shorter, which means a lot of workers need to re-skill or update their work knowledge faster and faster. Although this is a very popular topic and there are many books written on it, the ability to handle change is still lacking in many leaders in many workplaces._
 
 > There's probably not one universal model for how you look at change. 
 
@@ -93,7 +93,7 @@ _I am not a religious person, but that didn't stop me to find Richard Rohr's per
 
 ## [The Silent Patient by Alex Michaelides](https://www.amazon.com/Silent-Patient-most-anticipated-thriller-ebook/dp/B07G17DR4X/)
 
-[This](https://www.amazon.com/Silent-Patient-most-anticipated-thriller-ebook/dp/B07G17DR4X/) was a book that had me hooked and I saw no choice but reading more and more of it until it was finished. But the ending disappointed me. While I think the ending was intended to be very surprising, and it was, there were several behavioral aspects of the main character that didn't make quite sense to me, especially after the great unveiling in the end. 
+[This](https://www.amazon.com/Silent-Patient-most-anticipated-thriller-ebook/dp/B07G17DR4X/) was a book that had me hooked and I saw no choice but reading more and more of it until it was finished. But the ending disappointed me. While I think the ending was intended to be very surprising, and it was, there were several behavioural aspects of the main character that didn't make quite sense to me, especially after the great unveiling in the end. 
 
 This is the story of a psychotherapist and one of his patients, a very difficult patient, which makes the therapist step over boundaries that maybe shouldn't have been stepped over. 
 
