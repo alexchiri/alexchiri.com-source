@@ -16,7 +16,7 @@ When people hear that I work with [Kubernetes](https://kubernetes.io/), a very c
 
 ### "Remember when everyone was satisfied with developing these big monolothic services?"
 
-Everyone used to deploy monoliths by logging in on the production VM or physical machine, configure it, install the dependencies and then starting the binary of the service or application. Which meant that the environments were not quite the same (if there even were multiple environments). This made reproducing issues and software development and deployment a quite nasty affair. 
+Everyone used to deploy monoliths by logging in on the production VM or physical machine, configuring it, installing the dependencies and then starting the binary of the service or application. Which meant that the environments were not quite the same (if there even were multiple environments). This made reproducing issues and software development and deployment a quite nasty affair. 
 
 ### "Lo and behold, there's Docker!"
 
