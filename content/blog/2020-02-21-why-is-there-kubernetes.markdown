@@ -30,6 +30,6 @@ Then the idea of microservices gained a lot of traction, which meant that instea
 
 Kubernetes handles how your Docker containers are run on the machines. You give it a bunch of nodes where it can deploy services, you tell it how many instances of each of your services you want running and it takes care of the rest. Provided it has enough resources it will make sure to fulfill the desired state of your services. 
 
-Obviously, there's much more to this subject and Kubernetes is not a magical tool that solves all the problems and [everyone should go Kubernetes](https://www.youtube.com/watch?v=9wvEwPLcLcA). It's a complex tool that tries to solve specific problems and while doing that it might generate others. Instead of being busy with flipping containers on VMs, you can look at service meshes and how to shape the traffic between your services in a more effective way.
+Obviously, there's much more to this subject and Kubernetes is not a magical tool that solves all the problems and [not everyone should go Kubernetes](https://www.youtube.com/watch?v=9wvEwPLcLcA). It's a complex tool that tries to solve specific problems and while doing that it might generate others. Instead of being busy with flipping containers on VMs, you can look at service meshes and how to shape the traffic between your services in a more effective way.
 
 And then again, you could also avoid adding all this extra complexity into your work and use a monolith architecture, [if it makes sense](https://changelog.com/posts/monoliths-are-the-future). 
