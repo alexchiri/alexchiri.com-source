@@ -20,6 +20,7 @@ _The Giver is such a strange and sensitive story. It shows a society where every
 ---
 
 ## [Stubborn Attachments: A Vision for a Society of Free, Prosperous, and Responsible Individuals, by Tyler Cowen](https://www.amazon.com/Stubborn-Attachments-Prosperous-Responsible-Individuals-ebook/dp/B07G9DFC8W/)
+
 _In summary, Tyler Cowen's perspective is that we should always aim to have economic growth. But not of any kind or at any cost, but sustainable economic growth. And that growth should not be measured using the GDP of a country, but something he calls Wealth Plus, that includes other markers than just money (see a quote lower for his own definition of Wealth Plus)._
 
 > In economics, there is at least one (hypothetical) example of a free lunch. Economist Frank Knight wrote of the Crusonia plant, a mythical, automatically growing crop which generates more output each period.
