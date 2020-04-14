@@ -9,6 +9,9 @@ googleAnalytics         = "UA-37431001-1"
 pluralizeListTitles     = false
 disableLanguages        = [""]
 
+[markup.goldmark.renderer]
+unsafe= true
+
 [params]
   mainSections = ["post"]
   # Loads CSS and JavaScript files. The variable is an array so that you can load
@@ -108,6 +111,13 @@ disableLanguages        = [""]
     url               = "/reading-notes/"
     pre               = "<i class='fas fa-book'></i>"
     weight            = 3
+
+  [[menu.main]]
+    name              = "Pick my brain!"
+    identifier        = "pick-my-brain"
+    url               = "/pick-my-brain/"
+    pre               = "<i class='fas fa-brain'></i>"
+    weight            = 4
 
 # Sets Social Media icons to appear and link to your account. Value should be your
 # username unless otherwise noted. These are the icons affected by socialAppearAtTop
