@@ -16,7 +16,7 @@ For the following few weeks, I reserved 1 hour every day in my calendar to have 
 Book a time using the form below: <br/>
 
 <!-- Calendly inline widget begin -->
-<div class="calendly-inline-widget" data-url="https://calendly.com/alexchiri/60min" style="min-width:320px;height:630px;"></div>
+<div class="calendly-inline-widget" data-url="https://calendly.com/alexchiri/60min" style="min-width:320px;height:1100px;"></div>
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script>
 <!-- Calendly inline widget end -->
 
