@@ -108,7 +108,7 @@ unsafe= true
   [[menu.main]]
     name              = "Reading Notes"
     identifier        = "reading-notes"
-    url               = "/reading-notes/"
+    url               = "https://readingnotes.substack.com/"
     pre               = "<i class='fas fa-book'></i>"
     weight            = 3
 
