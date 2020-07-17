@@ -15,7 +15,7 @@ tags:
 
 Not long ago, I posted a small article called "Why is (there) Kubernetes?". Its content inspired me to create a short presentation trying to answer the questions "What and Why is there Kubernetes?". See below the recording and its summary after.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/reV8P-LrS6A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/vsf2nfFxkZs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
