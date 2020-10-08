@@ -116,7 +116,7 @@ unsafe= true
    name              = "Learn with alexchiri"
    identifier        = "learn-with-alexchiri"
    url               = "https://learn.alexchiri.com"
-   pre               = "<i class='fas fa-youtube'></i>"
+   pre               = "<i class='fab fa-youtube'></i>"
    weight            = 4
 
 # Sets Social Media icons to appear and link to your account. Value should be your
