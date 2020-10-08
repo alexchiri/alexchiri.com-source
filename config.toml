@@ -67,7 +67,7 @@ unsafe= true
     # This appears at the top of the sidebar above params.intro.header.
     # A width of less than 100px is recommended from a design perspective.
     [params.intro.pic]
-      src                 = "/img/main/logo.png"
+      src                 = "/img/main/logo.JPG"
       # Masks image in a certain shape. Supported are circle, triangle, diamond, and hexagon.
       shape               = "circle"
       width               = "100"
@@ -112,12 +112,12 @@ unsafe= true
     pre               = "<i class='fas fa-book'></i>"
     weight            = 3
 
-#  [[menu.main]]
-#    name              = "Pick my brain!"
-#    identifier        = "pick-my-brain"
-#    url               = "/pick-my-brain/"
-#    pre               = "<i class='fas fa-brain'></i>"
-#    weight            = 4
+ [[menu.main]]
+   name              = "Learn with alexchiri"
+   identifier        = "learn-with-alexchiri"
+   url               = "https://learn.alexchiri.com"
+   pre               = "<i class='fas fa-youtube'></i>"
+   weight            = 4
 
 # Sets Social Media icons to appear and link to your account. Value should be your
 # username unless otherwise noted. These are the icons affected by socialAppearAtTop
@@ -128,4 +128,4 @@ unsafe= true
   stackoverflow    = "1904089" # User Number
   linkedin         = "alexchiri"
   twitter          = "alexchiri"
-  email            = "alex.chiri@gmail.com"
+  email            = "alexchiri@hey.com"
